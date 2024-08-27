@@ -1,0 +1,22 @@
+{
+    "client": "Demo US Steel",
+    "mine": "Demo-Site",
+    "trucks": [
+        {
+            "value": 2,
+            "label": "Total Trucks"
+        },
+        {
+            "value": 1,
+            "label": "Steel Trucks"
+        },
+        {
+            "value": 1,
+            "label": "Rubber Trucks"
+        }
+    ],
+    "date_range": {
+        "min_date": "2024-07-26",
+        "max_date": "2024-08-22"
+    }
+}
